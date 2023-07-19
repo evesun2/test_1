@@ -1,1 +1,3 @@
 #new script
+
+print("Hello")
